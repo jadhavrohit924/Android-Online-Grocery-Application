@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DrawerFragments</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="fragment_main">Fragment Main</string>
+    <string name="load_fragment">Load Fragment</string>
+</resources>

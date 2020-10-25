@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:title="General">
+       <menu>
+           <item
+               android:id="@+id/home"
+               android:icon="@drawable/ic_home_black_24dp"
+               android:title="Home" />
+           <item
+               android:id="@+id/patient"
+               android:icon="@drawable/ic_group_black_24dp"
+               android:title="Patient Info" />
+           <item
+               android:id="@+id/schedule"
+               android:icon="@drawable/ic_work_black_24dp"
+               android:title="Schedule" />
+           <item
+               android:id="@+id/saline"
+               android:icon="@drawable/ic_poll_black_24dp"
+               android:title="Saline Level" />
+       </menu>
+   </item>
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/terms"
+                android:title="Terms and Conditions" />
+            <item
+                android:id="@+id/help"
+                android:title="Help" />
+        </menu>
+    </item>
+</menu>
